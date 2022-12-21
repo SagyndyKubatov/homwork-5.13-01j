@@ -29,8 +29,8 @@ public class Hero {
     @Override
     public String toString() {
         return "Hero" +
-                "heroesHealth: " + heroesHealth +
-                ", heroesDamage: " + heroesDamage +
-                ", heroesAbility: '" + heroesAbility + '\'' ;
+                "Health: " + heroesHealth +
+                ", Damage: " + heroesDamage +
+                ", Ability: '" + heroesAbility ;
     }
 }
